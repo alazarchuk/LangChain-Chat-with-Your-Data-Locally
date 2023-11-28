@@ -1,0 +1,4 @@
+.env
+.venv
+**/youtube/
+chroma.sqlite3
